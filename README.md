@@ -11,3 +11,4 @@ GEMINI_API_KEY=
 RESEND_API_KEY=
 ARCJET_KEY=
 ```
+Tech Stack Used: Next.js, Tailwind CSS, Gemini AI, Prisma, Material UI, Clerk, Inngest, Arcjet, Supabase.
